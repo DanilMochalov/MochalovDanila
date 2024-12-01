@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MochalovDanila/static/css/main.bf2a5940.css",
-    "main.js": "/MochalovDanila/static/js/main.fafd2c3c.js",
+    "main.js": "/MochalovDanila/static/js/main.b5927faf.js",
     "index.html": "/MochalovDanila/index.html",
     "main.bf2a5940.css.map": "/MochalovDanila/static/css/main.bf2a5940.css.map",
-    "main.fafd2c3c.js.map": "/MochalovDanila/static/js/main.fafd2c3c.js.map"
+    "main.b5927faf.js.map": "/MochalovDanila/static/js/main.b5927faf.js.map"
   },
   "entrypoints": [
     "static/css/main.bf2a5940.css",
-    "static/js/main.fafd2c3c.js"
+    "static/js/main.b5927faf.js"
   ]
 }
