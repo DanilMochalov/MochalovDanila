@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    gap: 20px;
+    justify-content: end;
+}
+
+.headerIcon{
+    width: 30px;
+    height: 30px;
+}
+
+@media (max-width:425px){
+    .header{
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+    }
+
+}
